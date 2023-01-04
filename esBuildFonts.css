@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "ESBuild";
+    font-display: swap;
+    src: url("//glideapps.com/fonts/ES-Build-SemiBold.woff2") format("woff2"),
+        url("//glideapps.com/fonts/ES-Build-SemiBold.woff") format("woff");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "ESBuild";
+    font-display: swap;
+    src: url("ES-Build-SemiBold.woff2") format("woff2"), url("ES-Build-SemiBold.woff") format("woff");
+    font-weight: 700;
+}
